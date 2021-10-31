@@ -1,0 +1,11 @@
+
+
+        javascript.info
+
+LET a CONST
+The name must contain only letters, digits, or the symbols $ and _.
+The first character must NOT be a digit.
+
+
+
+

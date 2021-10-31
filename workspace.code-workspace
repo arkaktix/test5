@@ -1,0 +1,26 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../../Documents/IT/Kurz/complete-javascript-course-master/06-Modal"
+	},
+	{
+		"path": "../../../Documents/IT/Kurz/complete-javascript-course-master/05-Guess-My-Number"
+	},
+	{
+		"path": "../../../Documents/IT/Kurz/complete-javascript-course-master/07-Pig-Game"
+	},
+	{
+		"path": "../../../Documents/IT/Kurz/complete-javascript-course-master/09-Data-Structures-Operators"
+	},
+	{
+		"name": "Github",
+		"path": "../../../Documents/IT/Github"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "09-Data-Structures-Operators"
+  }
+}
